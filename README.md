@@ -1,2 +1,2 @@
-# Hello! My name is Daniel
-Check out my [portfolio](daniellien2018.github.io) 
+# Hello! My name is Daniel Lien
+Check out my [Portfolio!](daniellien2018.github.io) 
